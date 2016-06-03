@@ -2,4 +2,4 @@
 function sheetLoaded() {
         return 'Hey, this works!';
     }
-    sheetLoaded();
+    console.log(sheetLoaded());
