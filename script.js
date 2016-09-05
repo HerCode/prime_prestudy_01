@@ -1,5 +1,5 @@
 //Function
 function sheetLoaded() {
-        return 'Hey, this works!';
+  console.log("Hey, this WORKS!");
     }
-    console.log(sheetLoaded());
+sheetLoaded();
